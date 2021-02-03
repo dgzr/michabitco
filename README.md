@@ -1,2 +1,1 @@
-# michabitco
-Bot mining bitcoin, michabitco.in
+berburu btc biar jadi sultan
