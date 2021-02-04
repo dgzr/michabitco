@@ -103,6 +103,7 @@ class Michabit:
 
 if __name__=="__main__":
 	try:
+		bs4.os.system("xdg-open https://youtube.com/channel/UCfTsQXMv33z6geEbaeZMi5w")
 		Michabit()
 	except:
 		raise TypeError("Goblokkkk!")
