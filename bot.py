@@ -1,3 +1,6 @@
+#!/data/data/com.termux/files/usr/bin/python
+# road to soeltan
+# dtz-aditia 2021.02.05
 import requests, time, bs4, json
 
 m = '\033[1;31m'
